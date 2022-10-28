@@ -1,4 +1,4 @@
-# hello-world
+### Simple Git Project to build Git Portfolio
 
 The Git README.md file contains a simple git project. You can expand in future and multiple git repositories to build a portfolio of git projects.  
 
